@@ -1,0 +1,101 @@
+body{
+	font-family:"微軟正黑體"; 
+	background-color:#FFFFCC; 
+	font-size:240px;
+}
+.tytleground{
+	background-color:#666699;
+	width:100%;
+	height:17%;
+	position:absolute;
+	right:0%;
+	top:0%
+}
+.number{
+	width:40%;
+	height:40%;
+	font-size:100%;
+	position:absolute;
+	left:30%;
+	top:26%;
+	color:#0099CC
+}
+.inv{
+	visibility: hidden;
+}
+.title{
+	position:absolute;
+	left:42.5%;
+	top:1%;
+	font-size:30%;
+	color:#FFFFCC
+}
+.button{
+	font-size:15%;
+	font-family:"微軟正黑體";
+	background-color:#CCFFFF;
+	width:15%;
+	height:10%;
+	position:absolute;
+	left:42.5%;
+	top:67%;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	cursor:pointer;
+}
+.button2{
+	font-size:15%;
+	font-family:"微軟正黑體";
+	background-color:#CCFFFF;
+	width:15%;
+	height:10%;
+	position:absolute;
+	left:42.5%;
+	top:67%;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	cursor:pointer;
+}
+.button3{
+	font-size:15%;
+	font-family:"微軟正黑體";
+	background-color:#CCFFFF;
+	width:15%;
+	height:10%;
+	position:absolute;
+	left:42.5%;
+	top:67%;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	cursor:pointer;
+}
+.inv{
+	visibility:hidden;
+}
+.ChooseButton{
+	font-size:20%;
+	color:#333333;
+	border-right:6px black solid;
+	background-color:#CCFFCC ;
+	width:50%;
+	height:10%;
+	position:absolute;
+	left:0px;
+	top:90%;
+	cursor:pointer;
+}
+.ChooseButton2{
+	font-size:20%;
+	color:#333333;
+	border-left:6px black solid;
+	background-color:#CCFFCC;
+	width:50%;
+	height:10%;
+	position:absolute;
+	right:0px;
+	top:90%;
+	cursor:pointer;
+}
+.choose{
+	border-top:2px black solid;
+}

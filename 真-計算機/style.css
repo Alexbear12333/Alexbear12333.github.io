@@ -1,0 +1,95 @@
+
+.computer{
+	background-image:"計算機.png";
+    width:40%;
+	height:800px;
+	position:absolute;
+	left:30%;
+	top:0%;
+	
+}
+.picture{
+	width:100%;
+}
+.test{
+	border:1px black solid;
+}
+.show{
+	width:88%;
+	height:15.5%;
+	overflow: hidden;
+    text-overflow: clipe;
+	word-break: break-all;
+    display: webkit-box;
+	font-size:10px;
+	position:absolute;
+	left:5.5%;
+	top:5%;
+}
+.box1-9{
+	width:50%;
+	height:50%;	
+	position:absolute;
+	left:7%;
+	top:43%;
+}
+.Operate{
+	width:35%;
+	height:50%;
+	position:absolute;
+	left:57%;
+	top:43%;
+}
+.ctrl{
+	width:85%;
+	height:15%;
+	position:absolute;
+	left:7%;
+	top:28.5%;
+	
+}
+.button{
+	width:30%;
+	height:25%;
+	font-size:40px;
+	-webkit-border-radius: 500px;
+	border-radius: 500px;
+	outline: none;
+	
+}
+.button2{
+	width:17.5%;
+	height:90%;
+	font-size:40px;
+	-webkit-border-radius: 500px;
+	border-radius: 500px;
+	outline: none;
+	
+}
+.button3{
+    font-size:40px;
+	width:98%;
+	height:23%;
+	margin-top:3%;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+}
+.button3.bbtn2{
+	width:47%;
+	height:26%;
+	margin-top:0%;
+	-webkit-border-radius: 500px;
+	border-radius: 500px;
+	
+}
+.bbtn{
+	width:39%;
+	height:80%;
+	font-size:50px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	outline: none;
+	position:absolute;
+	right:2%;
+	top:6%;
+}

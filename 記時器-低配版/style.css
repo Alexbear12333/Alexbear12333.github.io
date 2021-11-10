@@ -1,0 +1,11 @@
+body{
+	font-family:"微軟正黑體"; background-color:#FFFFCC; font-size:250px;
+}
+
+.tytleground{background-color:#666699;width:100%;padding:4%;position:absolute;right:0px;top:-10px
+	}
+.number{
+	position:absolute;right:26%;top:26%;color:#0099CC
+}
+.inv{visibility: hidden;}
+.title{position:relative;left:37%;top:-70px;width:100%;padding:4%;font-size:80px;color:#FFFFCC}
