@@ -1,0 +1,95 @@
+body{font-family:"微軟正黑體"; 
+     background-color:#FFCC99
+} 
+.titleground{
+	background:#CCFF99;
+	padding:3%;
+	height:100%;
+	border-right:7px #336699 solid; 
+	position:absolute;
+	left:0px;
+	top:-10px;
+	z-index:-1
+}
+.title{
+	font-size:45px;
+	position:absolute;
+	left:1.5%;
+	top:-5%;
+}
+.input{
+	width:30%;
+	height:14%;
+	font-size:50px;
+	font-family:"微軟正黑體";
+	border:4px black solid;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	cursor:pointer;
+	position:absolute;
+	left:40%;
+	top:40%;
+}
+.input.un{
+	color:white;
+	background-color:black;
+	border:4px white solid;
+}
+.button{
+	width:10%;
+	height:8%;
+	font-size:40px;
+	font-family:"微軟正黑體";
+	background-color:#CCCCCC;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	cursor:pointer;
+	position:absolute;
+	left:49.5%;
+	top:58%;
+}
+.button2{
+	width:10%;
+	height:8%;
+	font-size:40px;
+	font-family:"微軟正黑體";
+	background-color:#CCCCCC;
+	-webkit-border-radius: 7px;
+	border-radius: 7px;
+	cursor:pointer;
+	position:absolute;
+	left:49.5%;
+	top:58%;
+}
+.inv{
+	visibility: hidden;
+}
+.btn1{
+	width:14%;
+	height:6%;
+	font-size:30px;
+	font-family:"微軟正黑體";
+	-webkit-border-radius: 17px;
+	border-radius: 17px;
+	cursor:pointer;
+	background-color:#99CCFF;
+	position:absolute;
+	left:40%;
+	top:32%;
+}
+.btn2{
+	width:14%;
+	height:6%;
+	font-size:30px;
+	font-family:"微軟正黑體";
+	-webkit-border-radius: 17px;
+	border-radius: 17px;
+	cursor:pointer;
+	background-color:#99CCFF;
+	position:absolute;
+	left:56.8%;
+	top:32%;
+}
+.choose{
+	border:4px #663300 solid;
+}
