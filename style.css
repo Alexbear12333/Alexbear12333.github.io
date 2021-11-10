@@ -1,0 +1,106 @@
+.canvas{
+	width:703px;
+	height:703px;
+	background-color:#804000;
+	position:absolute;
+	left:1px;
+	top:2.5%;
+}
+
+
+.pixel{
+	cursor:pointer;
+	width:37px;
+	height:37px;
+	float: left; 
+}
+.pixel.Original_1 {
+	 background-image:url(picture/格線.png)
+}
+.pixel.Original_2 {
+	 background-image:url(picture/格線-上.png)
+}
+.pixel.Original_3 {
+	 background-image:url(picture/格線-下.png)
+}
+.pixel.Original_4 {
+	 background-image:url(picture/格線-左.png)
+}
+.pixel.Original_5 {
+	 background-image:url(picture/格線-右.png)
+}
+.pixel.Original_6 {
+	 background-image:url(picture/格線-左上角.png)
+}
+.pixel.Original_7 {
+	 background-image:url(picture/格線-右上角.png)
+}
+.pixel.Original_8 {
+	 background-image:url(picture/格線-左下角.png)
+}
+.pixel.Original_9 {
+	 background-image:url(picture/格線-右下角.png)
+}
+.pixel.Original_10 {
+	 background-image:url(picture/格線-星位.png)
+}
+
+.fill1{
+	background-color:black;
+	-webkit-border-radius: 500px;
+	border-radius: 500px;
+}
+.fill2{
+	background-color:white;
+	-webkit-border-radius: 500px;
+	border-radius: 500px;
+}
+.take{
+	font-family:"微軟正黑體";
+	font-size:25px;
+	width:100px;
+	height:40px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	cursor:pointer;
+	outline: none;
+	position:absolute;
+	right:1px;
+	top:5%;
+}
+.reset{
+	font-family:"微軟正黑體";
+	font-size:25px;
+	width:100px;
+	height:40px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	cursor:pointer;
+	outline: none;
+	position:absolute;
+	left:1px;
+	top:5%;
+}
+.player1{
+	width:150px;
+	height:150px;
+	background-color:black;
+	-webkit-border-radius: 500px;
+	border-radius: 500px;
+	position:absolute;
+	left:1px;
+	top:40%;
+}
+.player2{
+	width:150px;
+	height:150px;
+	background-color:white;
+	-webkit-border-radius: 500px;
+	border-radius: 500px;
+	position:absolute;
+	right:1px;
+	top:40%;
+}
+.hide{
+	visibility: hidden;
+}
