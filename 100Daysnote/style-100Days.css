@@ -1,0 +1,65 @@
+body{
+	background-color:#99CC66;
+	margin:0px;
+	font-family:"微軟正黑體";
+	text-align:center;
+}
+.content{
+	font-size:30px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#FFFF99;
+	width:1000px;
+	position: relative;
+	top:200px;
+	z-index:-1
+}
+.inv{
+	display:none
+}
+.text{
+	position:absolute;
+	top:35%;
+	left:3%;
+	font-size:100px;
+	font-family:"Segoe Script";
+}
+.day{
+	background-color:#99CC66;
+	position:absolute;
+	top:35%;
+	right:0%;
+	width:250px;
+	font-size:100px;
+	font-family:"Segoe Script";
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	outline: none;
+}
+.NEW{
+	width:800px;
+	-webkit-border-radius: 50px;
+	font-size:50px;
+	margin-right:auto;
+	margin-left:auto;
+	position:relative;
+	top:150px;
+	
+}
+.save{
+	width:800px;
+	-webkit-border-radius: 50px;
+	font-size:50px;
+	margin-right:auto;
+	margin-left:auto;
+	position:relative;
+	top:150px;
+	
+}
+.putin{
+	width:100%;
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	z-index:2
+}
